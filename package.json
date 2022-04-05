@@ -1,0 +1,23 @@
+{
+  "name": "slack-app",
+  "version": "1.0.0",
+  "description": "slack app integration for voci",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "node",
+    "express"
+  ],
+  "author": "Ishan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "form-data": "^4.0.0",
+    "https": "^1.0.0"
+  }
+}
